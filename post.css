@@ -1,0 +1,18 @@
+#post-area
+{
+    position: relative;
+    overflow: visible;
+    box-sizing: border-box;
+    margin-top: .5%;
+    margin-left: 13%;
+    min-height: 1px;
+    flex: 0 0 66.66667%;
+    max-width: 66.6%;
+    background-color: #161616;
+    color: aliceblue;
+    font-family: 'Poppins';
+    padding: .5%;
+    border-radius: 0.5em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
